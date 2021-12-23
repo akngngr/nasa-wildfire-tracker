@@ -1,4 +1,4 @@
-Wildfire Tracker Using NASA API
+# Wildfire Tracker Using Earth Observatory Natural Event Tracker (EONET) API
 
 
 ## Available Scripts
